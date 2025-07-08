@@ -2,7 +2,7 @@
 ### 임베디드시스템프로그래밍2 프로젝트
 
 [최종 발표 PPT 자료](https://drive.google.com/file/d/1Nef0HpQZqnrCfS2U3rZBhsGhqkoYTaEl/view?usp=drive_link)
-<br/>
+<br />
 
 
 
@@ -11,7 +11,7 @@
 - 2025년 3월, 경북 의성 및 산청 등지에서 발생한 대형 산불은 역대 최악의 피해를 기록함
 - 소방 인력의 약 95% 이상이 비전문가로 구성되어 초기 대응이 지연됨
 - 소방 헬기 등의 장비가 노후화되어 많은 인명 피해가 증가함
-<br/>
+<br />
 
 
 ## 🎯 프로젝트 목표 및 주요 기능 
@@ -26,7 +26,20 @@
   <img width=300 src="https://github.com/user-attachments/assets/caf51b4f-8cbd-45f6-9953-fa6f6da19028">
   <img width=380 src="https://github.com/user-attachments/assets/548450d6-7a48-4081-8059-b7092f6a4cb7">
 </p>
-<br/>
+<br />
+
+
+##  🦾 사용 부품
+- 라즈베리파이
+- ESP32
+- 불꽃 감지 센서 * 3
+- RC카 4륜 자동차키트
+- 워터 펌프 모터
+- 3.7V 리튬 배터리, AA 배터리 * 4
+- 모터드라이버 (RC카 - L298N 사용, 워터펌프 - L9110 사용)
+- 라즈베리파이용 배터리 공급 쉴드
+- 서보모터
+<br />
 
 
 ## 🤖 회로도 
@@ -47,8 +60,13 @@
 
 https://github.com/user-attachments/assets/e7286674-6ad6-4301-95e6-5423cc52616f
 
+<br/>
+
 
 ### 스마트 도로 통제 시스템
 
+https://github.com/user-attachments/assets/f14c4332-eaa8-4c19-995e-14d081b9f1a2
+
+<br />
 
 
